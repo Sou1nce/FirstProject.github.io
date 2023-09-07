@@ -1,0 +1,425 @@
+h1,h2,h3,h4,h5,h6{
+	box-sizing: border-box;
+	font-family: 'Monteserrat', sans-serif;
+}
+div,p,input,button,span,a,ul,li{
+	margin: 0;
+}
+body{
+	
+	padding:0;
+	margin:0;
+}
+
+.container{
+	width: 1225px;
+	margin:0 auto;
+}
+
+.header{
+	padding-top: 98px;
+	color:#fff;
+	padding-bottom: 10px;
+
+}
+.main1{
+	margin-left: 50px;
+	color:black;
+	text-decoration: none;
+}
+.wrapper{
+	justify-content: space-between;
+	display: flex;
+}
+
+.main-menu{
+	text-decoration: none;
+	font-size: 32px;
+	color: black;
+	text-decoration:none;
+	justify-content: space-between;
+    display: flex;
+	
+
+
+}
+
+.btn{
+	margin-left:470px;
+	text-decoration: none;
+	background:  #fff ;
+	border: 3px solid black;
+	border-radius: 8px;
+	font-family: 'Monteserrat', sans-serif;
+	width: 215px;
+	display: inline-block;
+	color: black;
+	
+	transition: all 0.5s ease;
+	height: 50px;
+	text-align: center;	
+	padding-top: 10px;
+}
+
+.wrap{
+	margin-top: 108px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.travel{
+	width: 450px;
+
+
+}
+.travel-text{
+	font-size: 61px;
+}
+.travel-opis{
+	margin-top: 30px;
+	font-size: 20px;
+}
+.rev-ticket{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	margin-top:40px;
+	height: 52px;
+	width:225px;
+	background:black;
+	border-radius: 8px;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+.wrs{
+	margin-top:110px;
+	width: 660px;
+	height: 419px;
+}
+.memory{
+	margin-top: 50px;
+	padding-top: 10px;
+	background-color: #232323;
+}
+
+
+.memory-text{
+
+	color: #fff;
+	text-align: center;
+	font-size: 45px;
+}
+.travel-opisa{
+	width: 450px;
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+	margin-left: 400px;
+}
+.btn-logs{
+	margin-top: 50px;
+	margin-left:524px;
+	text-decoration: none;
+	background:  #232323 ;
+	border: 3px solid white;
+	border-radius: 8px;
+	font-family: 'Monteserrat', sans-serif;
+	width: 215px;
+	display: inline-block;
+	color: white;
+	
+	transition: all 0.5s ease;
+	height: 50px;
+	text-align: center;	
+	padding-top: 10px;
+	margin-bottom: 50px;
+}
+
+.example{
+	background-color: #e9e7e7;
+	padding-top: 165px;
+	padding-bottom: 30px;
+}
+
+.photo-example{
+	justify-content: space-between;
+	display: flex;
+	width: 363px;
+}
+.line{
+	margin-top: 33px;
+	display: block;
+}
+.photo-travel{
+	margin-left: 50px;
+}
+
+.air{
+	text-decoration: none;
+	color: black;
+	padding-bottom: 3px;
+	border-bottom: 2px solid black;
+}
+
+.airlane{
+	padding-top: 369px;
+	background:  #e9e7e7 ;
+	align-items: center;
+	padding-bottom: 295px;
+}
+.air-ops{
+	margin-left: 600px;
+	height: 75px;
+	width: 78px;
+}
+.air-offer{
+	height: 211px;
+	width: 770px;
+	margin-left: 300px;
+	font-size: 51px;
+}
+.air-silll{
+	color: black;
+	outline: none;
+	text-decoration: none;
+	margin-left: 300px;
+	
+		}
+.air-sill{
+	text-decoration: none;
+	justify-content: space-between;
+	display: inline-flex;
+	font-size: 22px;
+	color: black;
+	height: 22px;
+	text-align: center;
+	margin-right: 7px;
+}
+.air-sill:visited{
+	color: black;
+	border: none;
+	outline: none;
+}
+.vertical1{
+	margin-left: 7px;
+}
+
+.skala{
+	background: #ffffff;
+
+
+}
+.skaly{
+	width: 565px;
+	height: 754px;
+}
+.skalyski{
+	display: flex;
+	justify-content: space-between;
+}
+.skalyhka{
+	margin-right: 565px;
+	margin-left: 40px;
+
+}
+.skaly-offer{
+	justify-content: center;
+	display: flex;
+	width: 600px;
+}
+.skaly-offer-h2{
+	font-size: 40px;
+	margin-top: 80px;
+	
+}
+.skaly-offer-p{
+		margin-left: 50px;
+		margin-top: 80px;
+		font-size: 15px;
+}
+
+.strelka{
+	margin-left: 463px;
+}
+
+.text-choose{
+	width: 465px;
+	padding-bottom: 106px;
+}
+
+.chel-stoit{
+	margin-left: 101px;
+	width: 761px;
+	height: 560px;
+}
+
+.wrap-choose{
+	padding: 150px 0;
+	justify-content: space-between;
+	display: flex;
+	width: 1330px;
+	height: 560px;
+}
+.choose{
+	background-color: #232323;
+	color: #fff;
+	padding-top: 10px;
+}
+
+.menu-opis{
+	padding-top: 175px;
+	padding-bottom: 265px;
+}
+
+.full-menu{
+	display: flex;
+	justify-content: space-between;
+}
+
+.panel-1{
+	margin: 25px 0;
+	width: 736px;
+	display: flex;
+	justify-content:space-between;
+
+}
+.corusel{
+	background-color: #FFF;
+	padding-bottom: 200px;
+}
+.cross{
+	display: block;
+}
+.panel-text{
+	margin-left: 43px;
+	display: block;
+	width: 619px;
+}
+.pognali{
+	display: flex;
+
+}
+.card{
+	width: 390px;
+	height: 425px;
+	border-radius: 9px;
+	border: 2px solid black;
+	justify-content: space-between;
+	margin-left: 24px;
+}
+.ellipse{
+	margin-top: 73px;
+	margin-left: 128px;
+}
+.cust-name{
+	margin-left: 103px;
+}
+.cust-text{
+	margin-top: 24px;
+	text-align:center;
+}
+.arrow-left{
+	width:85px;
+	height:71px;
+}
+
+.forms{
+	display: flex;
+	justify-content: space-between;
+}
+.input{
+	padding-left: 27px;
+	width: 455px;
+	height: 60px;
+	border-radius: 8px;
+	border: 2px solid black;
+	display: flex;
+	margin-top: 20px;
+
+}
+.input-opisanie{
+	padding-left: 27px;
+	width: 455px;
+	border-radius: 8px;
+	border: 2px solid black;
+	display: flex;
+	margin-top: 20px;
+	height: 220px;
+
+}
+
+.btnser{
+
+	background:  #232323 ;
+	border: 3px solid black;
+	border-radius: 8px;
+	font-family: 'Monteserrat', sans-serif;
+	width: 455px;
+	display: inline-block;
+	color: #fff;
+	
+	transition: all 0.5s ease;
+	height: 60px;
+	text-align: center;	
+	padding-top: 10px;
+	margin-top: 57px;
+}
+.corusel-titile{
+	margin:0px;
+	width: 450px;
+	font-size: 50px;
+}
+.forms-photo{
+	height: 680px;
+}
+.mail{
+	padding-bottom: 200px;
+}
+
+.coruseling{
+	text-align: center;
+	font-size: 40px;
+}
+
+footer {
+	margin:0 auto;
+	background: #c4c4c4;
+	padding: 0;
+	margin: 0;
+
+}
+
+.footer-text{
+	text-decoration: none;
+	padding-top: 117px;
+	justify-content:space-between;
+	display: flex;
+
+}
+
+.grids{
+	width: 829px;
+
+}
+.grid{
+
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr ;
+	grid-gap: 32px;
+}
+.credits{
+	text-decoration: none;
+	margin-top: 125px;
+	padding-bottom: 115px;
+	text-align: center;
+}
+
+.credits-a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+
+}
+
